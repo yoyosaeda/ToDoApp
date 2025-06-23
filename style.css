@@ -1,0 +1,7 @@
+.done {
+  text-decoration: line-through;
+  color: gray;
+}
+li {
+  margin: 5px 0;
+}
